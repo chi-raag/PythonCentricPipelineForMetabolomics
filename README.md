@@ -404,7 +404,7 @@ This also effectively pre-annotates the empirical compounds as this assigns them
 
 Options can be provided including:
 ```
---khipu_mz_tolerance: the ppm tolerance for empcpd construction
+--ppm: the ppm tolerance for empcpd construction
 --khipu_rt_tolerance: the absolute seconds tolerance for empcpd construction
 --khipu_adducts_pos: a path to .json file containing adduct information for positive mode
 --khipu_adducts_neg: a path to .json file containing adduct information for negative mode
